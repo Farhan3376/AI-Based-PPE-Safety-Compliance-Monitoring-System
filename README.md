@@ -51,13 +51,6 @@ The system saves all analysis results into specific output directories (e.g., `o
    - Overall Site Safety Status
    - Number of Helmet/Vest Violations
    - Worker-specific safety summaries
-
-## 🖼️ Sample Result (Test Case 2)
-
-### Annotated Frame
-![Sample Detection Result](output2/image.png)
-
-### Gemini Safety Report (`output_log.json`)
 ```json
 {
     "site_status": "unsafe",
