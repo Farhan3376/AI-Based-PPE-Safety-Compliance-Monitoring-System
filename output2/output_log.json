@@ -1,0 +1,32 @@
+{
+    "site_status": "unsafe",
+    "workers_detected": 3,
+    "helmet_violations": 3,
+    "workers": [
+        {
+            "worker_id": 1,
+            "helmet_type": "none",
+            "ppe_violation": true,
+            "movement_summary": "Active, operating manual wheelbarrow to transport gravel for concrete mixing.",
+            "coordinates_detected": true,
+            "safety_status": "unsafe"
+        },
+        {
+            "worker_id": 2,
+            "helmet_type": "none",
+            "ppe_violation": true,
+            "movement_summary": "Stationary, performing concrete mixing duties near the machinery.",
+            "coordinates_detected": true,
+            "safety_status": "unsafe"
+        },
+        {
+            "worker_id": 3,
+            "helmet_type": "none",
+            "ppe_violation": true,
+            "movement_summary": "Stationary, positioned on the machinery platform adding materials to the mixer.",
+            "coordinates_detected": true,
+            "safety_status": "unsafe"
+        }
+    ],
+    "overall_summary": "The site is unsafe due to multiple workers operating heavy machinery and moving heavy materials without the use of mandatory safety helmets or high-visibility vests. Additionally, work is being performed in an exposed environment without appropriate personal protective equipment."
+}

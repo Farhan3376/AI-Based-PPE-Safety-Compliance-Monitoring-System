@@ -1,0 +1,40 @@
+{
+    "site_status": "safe",
+    "workers_detected": 4,
+    "helmet_violations": 0,
+    "workers": [
+        {
+            "worker_id": 1,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Stationary at concrete pouring pipe",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 2,
+            "helmet_type": "engineer_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing, monitoring work site",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 3,
+            "helmet_type": "engineer_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing, monitoring work site",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 4,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Active, moving around the rebar structure while managing the pouring pipe",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        }
+    ],
+    "overall_summary": "The site is operating safely. All four detected workers are wearing appropriate helmets and high-visibility vests. Personnel are actively engaged in concrete pouring operations within the designated construction area."
+}

@@ -1,0 +1,48 @@
+{
+    "site_status": "safe",
+    "workers_detected": 5,
+    "helmet_violations": 0,
+    "workers": [
+        {
+            "worker_id": 1,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing on the edge of the structure, preparing rebar.",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 2,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Working on the surface, engaged in assembly.",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 3,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing upright, holding rebar for structure formation.",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 4,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Working on the rebar frame, securing joints.",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 5,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Crouching on the structure level to perform manual construction tasks.",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        }
+    ],
+    "overall_summary": "Five workers are present, all equipped with appropriate safety helmets and high-visibility vests while working on the elevated construction site."
+}

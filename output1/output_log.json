@@ -1,0 +1,72 @@
+{
+    "site_status": "safe",
+    "workers_detected": 8,
+    "helmet_violations": 0,
+    "workers": [
+        {
+            "worker_id": 1,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing, working with rebar cage",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 2,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing, adjusting rebar cage",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 3,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing, holding tape measure",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 4,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing, observing the measurement",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 5,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing, background left",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 6,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Climbing structure in background",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 7,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Walking in background",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        },
+        {
+            "worker_id": 8,
+            "helmet_type": "worker_helmet",
+            "ppe_violation": false,
+            "movement_summary": "Standing in background",
+            "coordinates_detected": true,
+            "safety_status": "safe"
+        }
+    ],
+    "overall_summary": "All 8 workers detected are wearing appropriate safety helmets and high-visibility vests. The site appears to be following standard safety protocols during the rebar assembly process."
+}
